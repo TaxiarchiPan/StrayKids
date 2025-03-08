@@ -1,9 +1,11 @@
-# Stray Kids
+# 🎵 Stray Kids Music Player 💙🔥  
 
-Stray Kids Music Player 
+A **dedicated** music player that plays a Stray Kids song   
 
-A Music player created with HTML, CSS and Javascript 
+## 🚀 Features  
+🎶 **Plays Only one Stray Kids Song** – [STRAY KIDS by stray kids](https://youtu.be/kMxuLQWMOLc?si=wl2p-NzmALckHbqk)  
+🎨 **Minimalist & Aesthetic UI** – Inspired by Stray Kids’ style 🖤  
+ 
 
-Playing STRAY KIDS by Stray Kids 
-(https://youtu.be/kMxuLQWMOLc?si=aGQrs0KdoKnkqi7D)
+
 
